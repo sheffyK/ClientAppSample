@@ -1,0 +1,15 @@
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.deps.json
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.runtimeconfig.json
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.runtimeconfig.dev.json
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.dll
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.pdb
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.AssemblyInfo.cs
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.dll
+C:\Users\LALAN-PC\Desktop\New folder\SampleClientApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.pdb
+F:\shubham''\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.csproj.CoreCompileInputs.cache
+F:\shubham''\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.AssemblyInfoInputs.cache
+F:\shubham''\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.AssemblyInfo.cs
+F:\shubham''\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.dll
+F:\shubham''\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.pdb

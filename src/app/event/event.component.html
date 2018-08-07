@@ -1,0 +1,32 @@
+<div *ngIf="mode=='list'">
+  <button type="button" (click)="navigateToAddEventPage()" class="btn btn-outline-dark float-right">Add Event</button>
+  <div class="container">
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th>Event</th>
+          <th>Date</th>
+          <th>Place</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let event of eventsList;let i = index">
+          <td>{{event.eventName}}</td>
+          <td>{{event.eventDate}}</td>
+          <td>{{event.address}}</td>
+          <td>
+          <button (click)="editEvent(event,i)">Edit</button>
+          <button (click)="viewEvent(event,i)">View</button>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<app-edit-event (flag)="onOpen($event)" (editForm) ="editForm($event)" [eventForm]="eventForm" [selectedIndex]="selectedIndex" *ngIf="mode=='edit'"></app-edit-event>
+<app-add-event (addForm) ="addForm($event)" (flag)="onOpen($event)" [eventForm]="eventForm" *ngIf="mode=='add'"></app-add-event>
+<app-view-event (flag)="onOpen($event)" [eventForm]="eventForm" *ngIf="mode=='view'"></app-view-event>
+

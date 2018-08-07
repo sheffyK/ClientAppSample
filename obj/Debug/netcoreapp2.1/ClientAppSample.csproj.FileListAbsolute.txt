@@ -1,0 +1,14 @@
+C:\Users\Techbit\Music\ClientAppSample\bin\Debug\netcoreapp2.1\ClientAppSample.deps.json
+C:\Users\Techbit\Music\ClientAppSample\bin\Debug\netcoreapp2.1\ClientAppSample.runtimeconfig.json
+C:\Users\Techbit\Music\ClientAppSample\bin\Debug\netcoreapp2.1\ClientAppSample.runtimeconfig.dev.json
+C:\Users\Techbit\Music\ClientAppSample\bin\Debug\netcoreapp2.1\ClientAppSample.dll
+C:\Users\Techbit\Music\ClientAppSample\bin\Debug\netcoreapp2.1\ClientAppSample.pdb
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.csprojAssemblyReference.cache
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.csproj.CoreCompileInputs.cache
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.RazorAssemblyInfo.cache
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.RazorAssemblyInfo.cs
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.AssemblyInfoInputs.cache
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.AssemblyInfo.cs
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.RazorTargetAssemblyInfo.cache
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.dll
+C:\Users\Techbit\Music\ClientAppSample\obj\Debug\netcoreapp2.1\ClientAppSample.pdb

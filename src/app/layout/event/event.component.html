@@ -1,0 +1,24 @@
+<button type="button" (click)="navigateToAddEventPage()" class="btn btn-outline-dark float-right">Add Event</button>
+
+<div class="container">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Place</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let event of eventsList;let i = index">
+        <td>{{event.eventName}}</td>
+        <td>{{event.eventDate}}</td>
+        <td>{{event.address}}</td>
+        <td (click)=editEvent(event,i)>Edit</td>
+      </tr>
+       
+    </tbody>
+  </table>
+</div>
+<router-outlet></router-outlet>
